@@ -1,10 +1,28 @@
-.grid-item {
-  height: 400px;
+/* Color Palette: 
+(Canva Colors - Tidal Wave)
+Misty Blue (lightest) #CFE0EA
+Teal Green (dark) #01949A
+Slate (gray tone) #578384
+Teal (darkest) #016367 */
+
+:root {
+  --background: #CFE0EA;
+  --text: #016367;
+  --nav: #578384;
+  --frame: #01949A;
 }
 
+
+
 img {
-  size: cover;
   height: 400px;
+  object-fit: cover;
+  object-position: center top; 
+}
+
+a {
+  text-decoration: none;
+  color: var(--text);
 }
 
 #banking {
