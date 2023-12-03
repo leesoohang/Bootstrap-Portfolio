@@ -1,0 +1,32 @@
+.grid-item {
+  height: 400px;
+}
+
+img {
+  size: cover;
+  height: 400px;
+}
+
+#banking {
+  background-image: url("../images/work-open-banking.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#elearning {
+  background-image: url("../images/work-elearning.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#business-school {
+  background-image: url("../images/work-business-school.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#course {
+  background-image: url("../images/work-ld.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
