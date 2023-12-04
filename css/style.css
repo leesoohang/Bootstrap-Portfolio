@@ -46,6 +46,11 @@ img {
   object-position: center top; 
 }
 
+.profile-picture {
+  width: 300px;
+  height: 300px;
+}
+
 a {
   text-decoration: none;
   color: var(--text);
